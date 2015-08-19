@@ -10,5 +10,6 @@ public class HelloWorld {
         System.out.println("Hello world");
         String name = null;
         System.out.println(StringUtils.isEmpty(name));
+        System.out.println("test@@");
     }
 }
